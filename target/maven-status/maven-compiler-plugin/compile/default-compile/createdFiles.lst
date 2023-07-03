@@ -1,0 +1,9 @@
+controller\ClonarProduto.class
+view\TelaSistemaEstoque.class
+controller\RemoverProduto.class
+exception\QuantidadeException.class
+controller\AdicionarProduto.class
+model\Produto.class
+exception\ValorException.class
+com\mycompany\sistemaestoque\SistemaEstoque.class
+exception\OpcaoException.class
